@@ -1,12 +1,12 @@
 .cart{
     background-color: whitesmoke;
     padding: 20px 30px;
-    border: 3px solid rgb(184, 240, 241);
+    border: 4px double rgb(37, 212, 96);
     border-radius: 30px;
 }
 
 .cart:hover{
 
-    background-color: rgb(243, 243, 182);
+    background-color: rgb(226, 243, 231);
 
 }

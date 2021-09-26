@@ -12,7 +12,7 @@ const Member = (props) => {
                 <div>
                     <img className="img-fluid rounded-circle" src={img} alt="" />
                 </div>
-                <p>Name: {name}</p>
+                <p className="fw-bold">Name: {name}</p>
                 <p>Age: {age}</p>
                 <p>Profession: {profession}</p>
                 <p>Donate-Amount:$ {donate_amount}</p>
