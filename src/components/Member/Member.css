@@ -1,0 +1,14 @@
+.member-info img{
+    height: 100px;
+    width: 100px;
+}
+
+.member-info {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.member-info p{
+    margin: 5px;
+}
