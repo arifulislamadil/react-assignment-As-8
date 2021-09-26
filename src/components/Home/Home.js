@@ -32,8 +32,9 @@ const Home = () => {
         <div>
 
             <div className="row members-info">
-                <h1>Humanity for Human</h1>
-                <h2>Target Donate Amount: $ 4000</h2>
+                <h2>Humanity for Human</h2>
+                <p>The sole meaning of life is to serve humanity</p>
+                <h3>Target Donate Amount: $ 4 Million</h3>
 
                 <div className="col-md-9 left-site">
                     <div className="row ">

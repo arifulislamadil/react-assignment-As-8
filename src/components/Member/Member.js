@@ -15,7 +15,7 @@ const Member = (props) => {
                 <p>Name: {name}</p>
                 <p>Age: {age}</p>
                 <p>Profession: {profession}</p>
-                <p>Donate-Amount: {donate_amount}</p>
+                <p>Donate-Amount:$ {donate_amount}</p>
                 <p>Country: {country}</p>
                 <button onClick={() => props.handleAddToCart(props.member)}><span>{element} </span>Add To Cart</button>
             </div>
