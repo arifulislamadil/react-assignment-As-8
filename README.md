@@ -1,8 +1,6 @@
 # The Charity 
 
-Help bring love and warmth to sick Bangladeshi. Donate to a Bangladeshi health charity! RUF find, fund and partner with most impactful non profit organisations around the world. Support Bangladesh Heritage. Programs For Bangaldesh. Get Involved. for more please check out [###The Charity](https://thecharity-lve-human.netlify.app/).
-<!-- Create React App -->
-<!-- https://github.com/facebook/create-react-app -->
+Help bring love and warmth to sick Bangladeshi. Donate to a Bangladeshi health charity! RUF find, fund and partner with most impactful non profit organisations around the world. Support Bangladesh Heritage. Programs For Bangaldesh. Get Involved. for more please check out [The Charity](https://thecharity-lve-human.netlify.app/).
 
 ## Using Langauage
 
