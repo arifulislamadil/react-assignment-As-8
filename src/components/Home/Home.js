@@ -21,9 +21,7 @@ const Home = () => {
                 setPerson([...persons]);
                 return;
             }
-
         }
-
         const addedMembers = [...persons, newMember];
         setPerson(addedMembers)
     }
