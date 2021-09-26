@@ -15,6 +15,15 @@ const Home = () => {
     }, []);
 
     const handleAddToCart = (newMember) => {
+
+        for (let singlePerson of persons) {
+            if (newMember === singlePerson) {
+                setPerson([...persons]);
+                return;
+            }
+
+        }
+
         const addedMembers = [...persons, newMember];
         setPerson(addedMembers)
     }
@@ -24,6 +33,7 @@ const Home = () => {
 
             <div className="row members-info">
                 <h1>Humanity for Human</h1>
+                <h2>Target Donate Amount: $ 4000</h2>
 
                 <div className="col-md-9 left-site">
                     <div className="row ">

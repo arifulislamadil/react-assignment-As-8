@@ -1,0 +1,13 @@
+.donate-btn{
+    background-color:#dac57b ;
+    border: none;
+    padding: 2px 20px;
+    margin-left: 10px;
+    color: black;
+    transition: all 0.3s ease;
+}
+
+.donate-btn:hover{
+    background-color: white;
+    color: black;
+}
